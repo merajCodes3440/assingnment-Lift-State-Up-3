@@ -1,0 +1,20 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.container {
+  background-color: chartreuse;
+  height: 300px;
+  padding: 10px;
+}
+#box1 {
+  background-color: brown;
+  height: 80px;
+}
+#box2 {
+  background-color: yellow;
+  height: 80px;
+}
